@@ -39,3 +39,6 @@ MIIE...
 6. Use the new Glitch URL as your checkout button template endpoint URL, eg: `https://project-name.glitch.me`. You can find this URL by clicking on `Share` on top right, then copy the `Live Site` URL.
 7. Edit `src/endpoint.js` with your logic to provide response to actions like applying coupon or shipping etc.
 8. Click on the `Logs` tab at the bottom to view server logs. The logs section also has a button to attach a debugger via Chrome devtools.
+
+## License
+WhatsApp Checkout API is [MIT licensed, as found in the LICENSE file](./LICENSE).
