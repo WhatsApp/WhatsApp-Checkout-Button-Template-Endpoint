@@ -1,0 +1,20 @@
+{
+    "name": "whatsapp-checkout-button-template-endpoint",
+    "version": "1.0.0",
+    "description": "An example endpoint server for WhatsApp Checkout https://developers.facebook.com/docs/whatsapp/cloud-api/payments-api/payments-in/checkout-button-templates",
+    "main": "src/server.js",
+    "type": "module",
+    "scripts": {
+      "start": "node src/server.js"
+    },
+    "author": "WhatsApp Checkout & Payments Team",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.21.2",
+      "cors": "^2.8.5"
+    },
+    "engines": {
+      "node": ">=16.0.0"
+    },
+    "keywords": []
+  }
